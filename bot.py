@@ -6,7 +6,7 @@ from rubika.client import Bot
 import requests
 from rubika.tools import Tools
 from rubika.encryption import encryption
-from gtts import gTTS
+from gtts import gtts
 from mutagen.mp3 import MP3
 import time
 import random
